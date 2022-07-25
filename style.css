@@ -1,0 +1,17 @@
+#subscribe{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.carousel-item{
+    background-color: #FCEAE8;
+}
+.carousel-item h1{
+    color: #FF4690;
+}
+
+.btn{
+    background-color: #FF4690;
+    color:white;
+    padding:8px 20px;
+    font-size: 17px;
+}
