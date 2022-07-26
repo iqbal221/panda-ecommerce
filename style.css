@@ -1,7 +1,13 @@
-#subscribe{
-    background-color: #FCEAE8;
-    border-radius: 10px;
+
+/* common style */
+.btn{
+    background-color: #FF4690;
+    color:white;
+    padding:8px 20px;
+    font-size: 17px;
 }
+
+/* slider section style */
 .carousel-item{
     background-color: #FCEAE8;
 }
@@ -9,9 +15,13 @@
     color: #FF4690;
 }
 
-.btn{
-    background-color: #FF4690;
-    color:white;
-    padding:8px 20px;
-    font-size: 17px;
+/* categories style */
+.categories-card img{
+    width:130px;
 }
+/* subscribe section style */
+#subscribe{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+
